@@ -96,7 +96,7 @@ SQLAlchemy==1.2.7
 subprocess32==3.2.7
 svgwrite==1.1.12
 tensorboard==1.8.0
-tensorflow==1.8.0
+tensorflow==2.6.4
 tensorflow-serving-api==1.7.0
 termcolor==1.1.0
 terminado==0.8.1
