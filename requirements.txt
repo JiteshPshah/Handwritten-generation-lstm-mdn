@@ -75,7 +75,7 @@ pykerberos==1.2.1
 pyOpenSSL==17.5.0
 pyparsing==2.2.0
 PySocks==1.6.8
-pyspark==2.2.1
+pyspark==3.2.2
 python-dateutil==2.7.2
 pytz==2018.4
 PyYAML==3.12
